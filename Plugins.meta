@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/TapSDK/Moment/Plugins.meta
+guid: e2980f5a1819943cd8603f2971886061
+========
+guid: c8c57e74c38644273963e32d0fd06be1
+>>>>>>>> 887a1da8 (feat: 兼容测试 net4 #TAP-56087):Assets/TapSDK/Moment/Plugins/iOS.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
