@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 232e192434e0644209fbc0dca7e1f9d1
-=======
-guid: 245cd7719b5d04f57bc06d51e61ebc4d
->>>>>>> 7453f549f (feat: pipeline build TapSDK4 Unity Demo changed version #no-ticket)
+guid: 45c18ddaa704c4f09a990cdfa0ce2d8f
 TextScriptImporter:
   externalObjects: {}
   userData: 
